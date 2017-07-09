@@ -15,7 +15,7 @@
 #include "product.h"
 #include<windows.h>
 using namespace std;
-
+/*need to create text fill and name it product.txt*/
 int main()
 {
     product p;
